@@ -9,6 +9,7 @@
 public class CalcEngine
 {
     // The value in the display.
+    //coucou c'est Inès
     private int displayValue;
     // The previous operator typed (+ or -).
     private char previousOperator;
